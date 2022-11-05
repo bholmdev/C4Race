@@ -3,6 +3,11 @@ img.banner {
     width: 100%;
 }
 
+img.banner {
+    max-width: 100%;
+    height: auto;
+  }
+
 .bg-dark {
     color: #fff;
 }

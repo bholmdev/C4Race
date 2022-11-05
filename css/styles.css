@@ -1,0 +1,33 @@
+img.banner {
+    height: 200px;
+    width: 100%;
+}
+
+.bg-dark {
+    color: #fff;
+}
+
+img.carIcon {
+    height: auto;
+    width: 50px;
+}
+
+.navbar a {
+    color: #d5ff80
+}
+
+.navbar-nav > .active > a {
+    color: rgb(32, 189, 201);
+}
+
+.navbar-nav a:hover {
+    color: rgb(32, 189, 201);
+}
+
+.navbar-dark {
+    background-color: #000;
+}
+
+.navbar-nav > li > .dropdown-menu { 
+    background-color: #000; 
+}

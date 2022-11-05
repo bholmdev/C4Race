@@ -1,3 +1,7 @@
+* {
+    background-color: #000;
+}
+
 img.banner {
     height: 200px;
     width: 100%;
@@ -40,4 +44,40 @@ a.navbar-brand:hover {
 
 .navbar-nav > li > .dropdown-menu { 
     background-color: #000; 
+}
+
+div p {
+    color:#d5ff80;
+}
+
+div h1 {
+    color:#d5ff80;
+}
+
+.site-footer {
+    color:#d5ff80;
+}
+
+li > a {
+    color:#d5ff80
+}
+
+li > a:hover {
+    color: rgb(32, 189, 201);
+}
+
+.bi {
+    color:#d5ff80
+}
+
+a > i {
+    color: #d5ff80;
+}
+
+a.btn-link {
+    color: #d5ff80;
+}
+
+a.btn-link:hover {
+    color: rgb(32, 189, 201);
 }

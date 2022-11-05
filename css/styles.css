@@ -16,6 +16,10 @@ img.carIcon {
     color: #d5ff80
 }
 
+a.navbar-brand:hover {
+    color:#d5ff80;
+}
+
 .navbar-nav > .active > a {
     color: rgb(32, 189, 201);
 }

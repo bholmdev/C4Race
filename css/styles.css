@@ -5,12 +5,9 @@
 img.banner {
     height: 200px;
     width: 100%;
-}
-
-img.banner {
+    max-height: 200px;
     max-width: 100%;
-    height: auto;
-  }
+}
 
 .bg-dark {
     color: #fff;
@@ -44,6 +41,10 @@ a.navbar-brand:hover {
 
 .navbar-nav > li > .dropdown-menu { 
     background-color: #000; 
+}
+
+#navbarSupportedContent {
+    margin: 5px;
 }
 
 div p {
